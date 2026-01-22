@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Lispo_claude/static/css/main.2b3c3d51.css",
+    "main.js": "/Lispo_claude/static/js/main.3dcda65f.js",
+    "static/js/453.01966bc8.chunk.js": "/Lispo_claude/static/js/453.01966bc8.chunk.js",
+    "index.html": "/Lispo_claude/index.html",
+    "main.2b3c3d51.css.map": "/Lispo_claude/static/css/main.2b3c3d51.css.map",
+    "main.3dcda65f.js.map": "/Lispo_claude/static/js/main.3dcda65f.js.map",
+    "453.01966bc8.chunk.js.map": "/Lispo_claude/static/js/453.01966bc8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b3c3d51.css",
+    "static/js/main.3dcda65f.js"
+  ]
+}
